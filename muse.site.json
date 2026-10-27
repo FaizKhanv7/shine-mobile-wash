@@ -1,0 +1,43 @@
+{
+  "idea": "car cleaning website",
+  "templateId": "bold",
+  "content": {
+    "siteKind": "business",
+    "title": "Shine Mobile Wash",
+    "tagline": "Convenient, eco‑friendly car cleaning",
+    "intro": "We bring professional car washing to your driveway, using water‑saving techniques and biodegradable soaps for a spotless, sustainable finish.",
+    "sections": [
+      {
+        "title": "Our Services",
+        "body": "Exterior wash, interior vacuum, tire shine, and full detail—all performed on‑site at your convenience."
+      },
+      {
+        "title": "How It Works",
+        "body": "Book online, we arrive within an hour, clean your car, and leave it sparkling without you lifting a finger."
+      },
+      {
+        "title": "Why Choose Us",
+        "body": "Eco‑friendly products, flexible scheduling, and a satisfaction guarantee ensure a worry‑free experience."
+      }
+    ],
+    "facts": [
+      {
+        "value": "90%",
+        "label": "Water saved"
+      },
+      {
+        "value": "15 min",
+        "label": "Average wash time"
+      }
+    ],
+    "cta": {
+      "label": "Book Now",
+      "note": "Select a time slot and we’ll be there"
+    },
+    "closing": {
+      "headline": "Your car deserves the best",
+      "body": "Experience a professional clean without leaving your home."
+    },
+    "footerNote": "Clean cars, clean planet"
+  }
+}
